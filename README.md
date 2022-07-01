@@ -2,15 +2,22 @@
 
 ![Memories](https://i.ibb.co/Z8Y0CJv/Screenshot-2020-10-30-at-11-10-04.png)
 
-## Introduction
-This is a code repository for the corresponding video tutorial - https://youtube.com/playlist?list=PL6QREj8te1P7VSwhrMf3D3Xt4V6_SRkhu.
+The App is called "Memories" and it is a simple social media app that allows users to post interesting events that happened in their lives. It also lets you like and comment on other user’s memories. We have also added Authentication which shall let you sign up using your google account. Memories is the easy to use website that helps keep life's most precious moments alive
 
-Using React, Node.js, Express & MongoDB you'll learn how to build a Full Stack MERN Application - from start to finish. The App is called "Memories" and it is a simple social media app that allows users to post interesting events that happened in their lives.
+Given below are the salient features of the app
+●	Create , edit and delete post
+●	Save post
+●	Like and comment post
+●	Search using tags
 
-By the end of this video, you will have a strong understanding of how the MERN Stack works.
+Languages and frameworks used:
+●	HTML , CSS , Javascript
+●	React & Redux
+●	Node js
+●	Express
+●	MongoDB (ATLAS)
 
-## Stay up to date with new projects
-New major projects coming soon, subscribe to the mailing list to stay up to date https://resource.jsmasterypro.com/newsletter
+
 
 Setup:
 - run ```npm i && npm start``` for both client and server side to start the app
